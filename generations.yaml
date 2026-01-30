@@ -1,0 +1,9 @@
+references:
+  - "https://en.wikipedia.org/wiki/Skoda_Auto"
+
+generations:
+  - name: "First Generation"
+    start_year: 2025
+    end_year: null
+    description: "All-electric compact crossover SUV, the first fully electric model in Škoda's small SUV segment. Based on the Volkswagen Group MEB platform. Positioned below the Enyaq in the electric vehicle lineup."
+    platform: "Volkswagen Group MEB"
